@@ -53,7 +53,7 @@ Mais informações
 **Rafael Pestano**
 - Meu [blog](http://rpestano.wordpress.com/)
 - Meu Twitter [@realpestano](http://twitter.com/#!/realpestano)
-- Mini framework JavaEE6 que mantenho (http://code.google.com/p/jsf-conventions-framework/) 
+- Mini framework JavaEE6 que mantenho (http://conventionsframework.org/) 
 
 **JSF Group**
 - https://groups.google.com/group/javasf/
